@@ -12,5 +12,7 @@ public class Test {
         System.out.println("麻少飞有点饿了！");
         // 第六次修改
         System.out.println("麻少飞想吃饭！");
+        // 第七次修改
+        System.out.println("这个真的是神器！");
     }
 }
